@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sait
+- 👋 Hi, my name is Sait
 - 👀 I’m interested in Github
 - 🌱 I’m currently learning how to clone a remote repository.
 - 💞️ I’m looking to collaborate on new projects.
